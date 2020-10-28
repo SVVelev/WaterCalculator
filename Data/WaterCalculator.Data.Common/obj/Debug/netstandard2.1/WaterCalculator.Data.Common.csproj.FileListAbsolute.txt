@@ -1,0 +1,9 @@
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Data\WaterCalculator.Data.Common\bin\Debug\netstandard2.1\WaterCalculator.Data.Common.deps.json
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Data\WaterCalculator.Data.Common\bin\Debug\netstandard2.1\WaterCalculator.Data.Common.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Data\WaterCalculator.Data.Common\bin\Debug\netstandard2.1\WaterCalculator.Data.Common.pdb
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Data\WaterCalculator.Data.Common\obj\Debug\netstandard2.1\WaterCalculator.Data.Common.csprojAssemblyReference.cache
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Data\WaterCalculator.Data.Common\obj\Debug\netstandard2.1\WaterCalculator.Data.Common.AssemblyInfoInputs.cache
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Data\WaterCalculator.Data.Common\obj\Debug\netstandard2.1\WaterCalculator.Data.Common.AssemblyInfo.cs
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Data\WaterCalculator.Data.Common\obj\Debug\netstandard2.1\WaterCalculator.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Data\WaterCalculator.Data.Common\obj\Debug\netstandard2.1\WaterCalculator.Data.Common.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Data\WaterCalculator.Data.Common\obj\Debug\netstandard2.1\WaterCalculator.Data.Common.pdb

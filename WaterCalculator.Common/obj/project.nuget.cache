@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWEvq+D916TFJkcKzc1s5r2XJR4xCilLHPFGahrMMiW3HCBaPxRcI/bL5yXLnFZQkwEBrMann9XveWjaez6pag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\WaterCalculator.Common\\WaterCalculator.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sveto\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.205\\stylecop.analyzers.1.2.0-beta.205.nupkg.sha512",
+    "C:\\Users\\sveto\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.205\\stylecop.analyzers.unstable.1.2.0.205.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\bin\Debug\netstandard2.1\WaterCalculator.Web.ViewModels.deps.json
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\bin\Debug\netstandard2.1\WaterCalculator.Web.ViewModels.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\bin\Debug\netstandard2.1\WaterCalculator.Web.ViewModels.pdb
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\bin\Debug\netstandard2.1\WaterCalculator.Data.Common.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\bin\Debug\netstandard2.1\WaterCalculator.Data.Models.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\bin\Debug\netstandard2.1\WaterCalculator.Services.Mapping.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\bin\Debug\netstandard2.1\WaterCalculator.Data.Models.pdb
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\bin\Debug\netstandard2.1\WaterCalculator.Services.Mapping.pdb
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\bin\Debug\netstandard2.1\WaterCalculator.Data.Common.pdb
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\obj\Debug\netstandard2.1\WaterCalculator.Web.ViewModels.csprojAssemblyReference.cache
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\obj\Debug\netstandard2.1\WaterCalculator.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\obj\Debug\netstandard2.1\WaterCalculator.Web.ViewModels.AssemblyInfo.cs
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\obj\Debug\netstandard2.1\WaterCalculator.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\obj\Debug\netstandard2.1\WaterCalculator.Web.ViewModels.csproj.CopyComplete
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\obj\Debug\netstandard2.1\WaterCalculator.Web.ViewModels.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Web\WaterCalculator.Web.ViewModels\obj\Debug\netstandard2.1\WaterCalculator.Web.ViewModels.pdb

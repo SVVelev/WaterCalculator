@@ -1,0 +1,9 @@
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Messaging\bin\Debug\netstandard2.1\WaterCalculator.Services.Messaging.deps.json
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Messaging\bin\Debug\netstandard2.1\WaterCalculator.Services.Messaging.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Messaging\bin\Debug\netstandard2.1\WaterCalculator.Services.Messaging.pdb
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Messaging\obj\Debug\netstandard2.1\WaterCalculator.Services.Messaging.csprojAssemblyReference.cache
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Messaging\obj\Debug\netstandard2.1\WaterCalculator.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Messaging\obj\Debug\netstandard2.1\WaterCalculator.Services.Messaging.AssemblyInfo.cs
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Messaging\obj\Debug\netstandard2.1\WaterCalculator.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Messaging\obj\Debug\netstandard2.1\WaterCalculator.Services.Messaging.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Messaging\obj\Debug\netstandard2.1\WaterCalculator.Services.Messaging.pdb

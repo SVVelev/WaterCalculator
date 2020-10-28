@@ -1,0 +1,923 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Tests\\WaterCalculator.Web.Tests\\WaterCalculator.Web.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Common\\WaterCalculator.Data.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Common\\WaterCalculator.Data.Common.csproj",
+        "projectName": "WaterCalculator.Data.Common",
+        "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Common\\WaterCalculator.Data.Common.csproj",
+        "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Models\\WaterCalculator.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Models\\WaterCalculator.Data.Models.csproj",
+        "projectName": "WaterCalculator.Data.Models",
+        "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Models\\WaterCalculator.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Common\\WaterCalculator.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Common\\WaterCalculator.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data\\WaterCalculator.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data\\WaterCalculator.Data.csproj",
+        "projectName": "WaterCalculator.Data",
+        "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data\\WaterCalculator.Data.csproj",
+        "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Common\\WaterCalculator.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Common\\WaterCalculator.Data.Common.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Models\\WaterCalculator.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Models\\WaterCalculator.Data.Models.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\WaterCalculator.Common\\WaterCalculator.Common.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\WaterCalculator.Common\\WaterCalculator.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Data\\WaterCalculator.Services.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Data\\WaterCalculator.Services.Data.csproj",
+        "projectName": "WaterCalculator.Services.Data",
+        "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Data\\WaterCalculator.Services.Data.csproj",
+        "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Common\\WaterCalculator.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Common\\WaterCalculator.Data.Common.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Models\\WaterCalculator.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Models\\WaterCalculator.Data.Models.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Mapping\\WaterCalculator.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Mapping\\WaterCalculator.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Mapping\\WaterCalculator.Services.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Mapping\\WaterCalculator.Services.Mapping.csproj",
+        "projectName": "WaterCalculator.Services.Mapping",
+        "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Mapping\\WaterCalculator.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Messaging\\WaterCalculator.Services.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Messaging\\WaterCalculator.Services.Messaging.csproj",
+        "projectName": "WaterCalculator.Services.Messaging",
+        "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Messaging\\WaterCalculator.Services.Messaging.csproj",
+        "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Sendgrid": {
+              "target": "Package",
+              "version": "[9.21.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services\\WaterCalculator.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services\\WaterCalculator.Services.csproj",
+        "projectName": "WaterCalculator.Services",
+        "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services\\WaterCalculator.Services.csproj",
+        "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Tests\\WaterCalculator.Web.Tests\\WaterCalculator.Web.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Tests\\WaterCalculator.Web.Tests\\WaterCalculator.Web.Tests.csproj",
+        "projectName": "WaterCalculator.Web.Tests",
+        "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Tests\\WaterCalculator.Web.Tests\\WaterCalculator.Web.Tests.csproj",
+        "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Tests\\WaterCalculator.Web.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web\\WaterCalculator.Web.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web\\WaterCalculator.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\WaterCalculator.Common\\WaterCalculator.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\WaterCalculator.Common\\WaterCalculator.Common.csproj",
+        "projectName": "WaterCalculator.Common",
+        "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\WaterCalculator.Common\\WaterCalculator.Common.csproj",
+        "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\WaterCalculator.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web.Infrastructure\\WaterCalculator.Web.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web.Infrastructure\\WaterCalculator.Web.Infrastructure.csproj",
+        "projectName": "WaterCalculator.Web.Infrastructure",
+        "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web.Infrastructure\\WaterCalculator.Web.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web.ViewModels\\WaterCalculator.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web.ViewModels\\WaterCalculator.Web.ViewModels.csproj",
+        "projectName": "WaterCalculator.Web.ViewModels",
+        "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web.ViewModels\\WaterCalculator.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Models\\WaterCalculator.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Models\\WaterCalculator.Data.Models.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Mapping\\WaterCalculator.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Mapping\\WaterCalculator.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web\\WaterCalculator.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web\\WaterCalculator.Web.csproj",
+        "projectName": "WaterCalculator.Web",
+        "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web\\WaterCalculator.Web.csproj",
+        "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Models\\WaterCalculator.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data.Models\\WaterCalculator.Data.Models.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data\\WaterCalculator.Data.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Data\\WaterCalculator.Data\\WaterCalculator.Data.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Data\\WaterCalculator.Services.Data.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Data\\WaterCalculator.Services.Data.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Mapping\\WaterCalculator.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Mapping\\WaterCalculator.Services.Mapping.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Messaging\\WaterCalculator.Services.Messaging.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services.Messaging\\WaterCalculator.Services.Messaging.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services\\WaterCalculator.Services.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Services\\WaterCalculator.Services\\WaterCalculator.Services.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\WaterCalculator.Common\\WaterCalculator.Common.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\WaterCalculator.Common\\WaterCalculator.Common.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web.Infrastructure\\WaterCalculator.Web.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web.Infrastructure\\WaterCalculator.Web.Infrastructure.csproj"
+              },
+              "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web.ViewModels\\WaterCalculator.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\sveto\\Desktop\\SoftUni\\WaterCalculator\\Web\\WaterCalculator.Web.ViewModels\\WaterCalculator.Web.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "BuildBundlerMinifier": {
+              "target": "Package",
+              "version": "[3.2.449, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Web.LibraryManager.Build": {
+              "target": "Package",
+              "version": "[2.1.113, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

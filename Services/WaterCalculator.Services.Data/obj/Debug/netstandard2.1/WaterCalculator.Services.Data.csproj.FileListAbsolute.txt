@@ -1,0 +1,16 @@
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\bin\Debug\netstandard2.1\WaterCalculator.Services.Data.deps.json
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\bin\Debug\netstandard2.1\WaterCalculator.Services.Data.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\bin\Debug\netstandard2.1\WaterCalculator.Services.Data.pdb
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\bin\Debug\netstandard2.1\WaterCalculator.Data.Common.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\bin\Debug\netstandard2.1\WaterCalculator.Data.Models.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\bin\Debug\netstandard2.1\WaterCalculator.Services.Mapping.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\bin\Debug\netstandard2.1\WaterCalculator.Data.Common.pdb
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\bin\Debug\netstandard2.1\WaterCalculator.Data.Models.pdb
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\bin\Debug\netstandard2.1\WaterCalculator.Services.Mapping.pdb
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\obj\Debug\netstandard2.1\WaterCalculator.Services.Data.csprojAssemblyReference.cache
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\obj\Debug\netstandard2.1\WaterCalculator.Services.Data.AssemblyInfoInputs.cache
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\obj\Debug\netstandard2.1\WaterCalculator.Services.Data.AssemblyInfo.cs
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\obj\Debug\netstandard2.1\WaterCalculator.Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\obj\Debug\netstandard2.1\WaterCalculator.Services.Data.csproj.CopyComplete
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\obj\Debug\netstandard2.1\WaterCalculator.Services.Data.dll
+C:\Users\sveto\Desktop\SoftUni\WaterCalculator\Services\WaterCalculator.Services.Data\obj\Debug\netstandard2.1\WaterCalculator.Services.Data.pdb

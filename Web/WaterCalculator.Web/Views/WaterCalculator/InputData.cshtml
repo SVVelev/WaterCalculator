@@ -1,0 +1,35 @@
+﻿@using WaterCalculator.Web.ViewModels.Water
+@model WaterInputModel
+@{
+
+    ViewData["Title"] = "WaterCalculator";
+
+}
+<section class="py-5">
+    <div class="text-center">
+        <h1 style="margin: 2%; text-align: center;">Water Calculator</h1>
+        <div style="padding: 5%;">
+            <form asp-controller="WaterCalculator" asp-action="InputData" method="post"
+                  enctype="multipart/form-data">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Age"></label>
+                    <input id="model" asp-for="Age" class="form-control" />
+                    <span asp-validation-for="Age" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Weight"></label>
+                    <input id="model" asp-for="Weight" class="form-control" />
+                    <span asp-validation-for="Weight" class="text-danger"></span>
+                </div>
+                
+                <button type="submit" class="btn btn-primary text-uppercase">Calculate</button>
+            </form>
+
+            <br />
+            <a href="/">
+                <input type="submit" value="Cancel" class="btn btn-secondary" />
+            </a>
+        </div>
+    </div>
+</section>

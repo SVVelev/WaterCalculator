@@ -1,0 +1,17 @@
+﻿@using WaterCalculator.Web.ViewModels.Water
+@model WaterOutputModel
+@{
+    ViewData["Title"] = "Result";
+}
+<br />
+<div class="text-center">
+    <img src="https://cleanleap.com/sites/default/files/images/featured/3310/water%20cup.jpg" class="rounded" width="500" height="250">
+    <br />
+    <h3>You should drink @Model.MililitersToDrink mililiters per day.</h3>
+    <br />
+    <a href="/">
+        <input type="submit" value="Home" class="btn btn-secondary" />
+    </a>
+</div>
+
+    
